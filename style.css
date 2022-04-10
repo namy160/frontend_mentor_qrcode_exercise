@@ -11,7 +11,7 @@ body{
 .info_container{
   background: hsl(0, 0%, 100%);
   text-align: center;
-  margin-top: 150px;
+  margin-top: 155px;
   margin-left: auto;
   margin-right: auto;
   padding: 6px;
@@ -30,7 +30,7 @@ body{
 
 h1{
   font-weight: 700;
-  font-size: 20px;
+  font-size: 21px;
   color: hsl(218, 44%, 22%);
   margin-top: 7px;
   margin-bottom: 5px;
